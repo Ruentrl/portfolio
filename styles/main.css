@@ -127,6 +127,7 @@ img {
   font-family: var(--third-family);
   font-size: 20px;
   line-height: 24px;
+  transition: .3s;
 }
 
 .header__link:hover {
